@@ -1,6 +1,15 @@
 # Awesome-Anomaly-Detection
+## Contents
+  1. Image \
+    (1) Out-of-Distribution (OOD) Detection \
+    (2) One-Class Classification: Novelty Detection, Outlier Detection 
+  2. Video
+  3. Time-Series \
+    (1) Multivariate \
+    (2) Survey
+  4. Graph
 
-
+  + [Defect Detection](https://github.com/alina-mj/Awesome-Defect-Detection.git)
 
 
 ## 1. Image
