@@ -6,11 +6,13 @@
   2. Video
   3. Time-Series \
     (1) Multivariate \
-    (2) Survey
+    (2) Univariate
   4. Graph
 
   + [Defect Detection](https://github.com/alina-mj/Awesome-Defect-Detection.git)
 
+## 0. Survey
+- Chalapathy, Raghavendra, and Sanjay Chawla. "Deep learning for anomaly detection: A survey." arXiv preprint arXiv:1901.03407 (2019) | [paper](https://arxiv.org/pdf/1901.03407.pdf)
 
 ## 1. Image
 ### (1) Out-of-Distribution (OOD) Detection
@@ -45,6 +47,7 @@
 
 
 ## 2. Video
+- [survey] Zhu, Sijie, Chen Chen, and Waqas Sultani. "Video Anomaly Detection for Smart Surveillance." arXiv preprint arXiv:2004.00222 (2020) | [paper](https://arxiv.org/pdf/2004.00222.pdf)
 - Sultani, Waqas, Chen Chen, and Mubarak Shah. "Real-world anomaly detection in surveillance videos." CVPR 2018 | [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sultani_Real-World_Anomaly_Detection_CVPR_2018_paper.pdf)
 - Liu, Wen, et al. "Future frame prediction for anomaly detection–a new baseline." CVPR 2018 | [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Future_Frame_Prediction_CVPR_2018_paper.pdf) | [git](https://github.com/StevenLiuWen/ano_pred_cvpr2018.git)
 - Vu, Hung, et al. "Robust anomaly detection in videos using multilevel representations." AAAI 2019 | [paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/4456)
@@ -53,12 +56,11 @@
 - Gong, Dong, et al. "Memorizing normality to detect anomaly: Memory-augmented deep autoencoder for unsupervised anomaly detection." ICCV 2019 | [paper](https://arxiv.org/pdf/1904.02639.pdf) | [git](https://github.com/donggong1/memae-anomaly-detection.git)
 - Nguyen, Trong-Nguyen, and Jean Meunier. "Anomaly detection in video sequence with appearance-motion correspondence." ICCV 2019 | [paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Nguyen_Anomaly_Detection_in_Video_Sequence_With_Appearance-Motion_Correspondence_ICCV_2019_paper.pdf)
 
-### Survey
-- Zhu, Sijie, Chen Chen, and Waqas Sultani. "Video Anomaly Detection for Smart Surveillance." arXiv preprint arXiv:2004.00222 (2020) | [paper](https://arxiv.org/pdf/2004.00222.pdf)
-
 
 
 ## 3. Time-Series
+- [survey] Blázquez-García, Ane, et al. "A review on outlier/anomaly detection in time series data." arXiv preprint arXiv:2002.04236(2020) | [paper](https://arxiv.org/pdf/2002.04236.pdf)
+
 ### (1) Multivariate
 - Hundman, Kyle, et al. "Detecting spacecraft anomalies using lstms and nonparametric dynamic thresholding." KDD 2018 | [paper](https://arxiv.org/pdf/1802.04431.pdf) | [git](https://github.com/khundman/telemanom.git)
 - Ren, Hansheng, et al. "Time-Series Anomaly Detection Service at Microsoft." KDD 2019 | [paper](https://arxiv.org/pdf/1906.03821.pdf)
@@ -72,8 +74,7 @@
 - Zong, Bo, et al. "Deep autoencoding gaussian mixture model for unsupervised anomaly detection." ICLR 2018 | [paper](https://openreview.net/forum?id=BJJLHbb0-) | [git1](https://github.com/tnakae/DAGMM.git) | [git2](https://github.com/danieltan07/dagmm)
 
 
-### (2) Survey
-- Blázquez-García, Ane, et al. "A review on outlier/anomaly detection in time series data." arXiv preprint arXiv:2002.04236(2020) | [paper](https://arxiv.org/pdf/2002.04236.pdf)
+### (2) Univariate
 
 
 
