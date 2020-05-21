@@ -8,11 +8,15 @@
     (1) Multivariate \
     (2) Univariate
   4. Graph
-
   + [Defect Detection](https://github.com/alina-mj/Awesome-Defect-Detection.git)
 
-## 0. Survey
+
+
+## 0. Survey for Overall Anomaly Detection
 - Chalapathy, Raghavendra, and Sanjay Chawla. "Deep learning for anomaly detection: A survey." arXiv preprint arXiv:1901.03407 (2019) | [paper](https://arxiv.org/pdf/1901.03407.pdf)
+- anomaly-detection-resources | [git](https://github.com/yzhao062/anomaly-detection-resources.git)
+- awesome-anomaly-detection | [git](https://github.com/hoya012/awesome-anomaly-detection.git)
+
 
 ## 1. Image
 ### (1) Out-of-Distribution (OOD) Detection
@@ -47,6 +51,7 @@
 
 
 ## 2. Video
+- [survey] awesome-video-anomaly-detection | [git](https://github.com/fjchange/awesome-video-anomaly-detection.git)
 - [survey] Zhu, Sijie, Chen Chen, and Waqas Sultani. "Video Anomaly Detection for Smart Surveillance." arXiv preprint arXiv:2004.00222 (2020) | [paper](https://arxiv.org/pdf/2004.00222.pdf)
 - Sultani, Waqas, Chen Chen, and Mubarak Shah. "Real-world anomaly detection in surveillance videos." CVPR 2018 | [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sultani_Real-World_Anomaly_Detection_CVPR_2018_paper.pdf)
 - Liu, Wen, et al. "Future frame prediction for anomaly detection–a new baseline." CVPR 2018 | [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Future_Frame_Prediction_CVPR_2018_paper.pdf) | [git](https://github.com/StevenLiuWen/ano_pred_cvpr2018.git)
@@ -59,6 +64,7 @@
 
 
 ## 3. Time-Series
+- [survey] awesome-TS-anomaly-detection | [git](https://github.com/rob-med/awesome-TS-anomaly-detection.git)
 - [survey] Blázquez-García, Ane, et al. "A review on outlier/anomaly detection in time series data." arXiv preprint arXiv:2002.04236(2020) | [paper](https://arxiv.org/pdf/2002.04236.pdf)
 
 ### (1) Multivariate
