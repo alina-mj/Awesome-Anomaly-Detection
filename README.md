@@ -1,4 +1,10 @@
 # Awesome-Anomaly-Detection
+List of papers and codes for anomaly detection. 
+
+Keywords: Out-of-Distribution Detection, Novelty Detection, Outlier Detection, Video Anomaly Detection, Time-Series Anomaly Detection, Multivariate Time-Series Anomaly Detection, Univariate Time-Series Anomaly Detection, Graph Based Anomaly Detection
+
+
+
 ## Contents
   1. Image \
     (1) Out-of-Distribution (OOD) Detection \
