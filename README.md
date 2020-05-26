@@ -14,7 +14,7 @@ Keywords: Out-of-Distribution Detection, Novelty Detection, Outlier Detection, V
     (1) Multivariate \
     (2) Univariate
   4. Graph
-  + [Defect Detection](https://github.com/alina-mj/Awesome-Defect-Detection.git)
+  + [Defect Detection and Classification](https://github.com/alina-mj/Awesome-Defect-Detection-and-Classification.git)
 
 
 
